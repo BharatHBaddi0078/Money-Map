@@ -37,7 +37,6 @@ MoneyMap is a modern web application designed to simplify personal finance manag
 
 1. **Clone the repository:**
    ```bash
-<<<<<<< HEAD
    git clone https://github.com/AJAmit17/MoneyMap.git
    cd MoneyMap
    ```
