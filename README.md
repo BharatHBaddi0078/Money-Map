@@ -87,6 +87,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspired by the need for an intuitive and efficient personal finance management tool.
 - Special thanks to the developers and contributors of Next.js, Prisma ORM, PostgreSQL, Streamlit, Pandas, Matplotlib, Recharts, Clerk auth, and other open-source technologies used in this project.
 =======
-   git clone https://github.com/BharatHBaddi0078/Money-Map.git
-   cd Money-Map
->>>>>>> 0269dba (Final commit)
+  
+>>>>>> (Final commit)
